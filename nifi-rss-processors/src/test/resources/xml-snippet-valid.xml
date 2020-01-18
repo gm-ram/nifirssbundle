@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>RSS Feed Example</title>
+        <link>https://www.rss-feed-example.com</link>
+        <description>A basic RSS feed for testing.</description>
+        <language>en-gb</language>
+        <category>Unit Test</category>
+        <item>
+            <title>Feed Item One</title>
+            <link>https://www.rss-feed-example.com/item/item_one.html</link>
+            <description>Description for feed item one.</description>
+            <author>John Doe</author>
+            <pubDate>Sat, 1 Jan 2000 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Feed Item Two</title>
+            <link>https://www.rss-feed-example.com/item/item_two.html</link>
+            <description>Description for feed item two.</description>
+            <author>Jane Doe</author>
+            <pubDate>Sat, 1 Jan 2001 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+
+</rss>
