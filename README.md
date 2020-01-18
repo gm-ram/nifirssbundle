@@ -1,0 +1,2 @@
+# nifirssbundle
+NiFi RSS processor
